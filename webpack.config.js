@@ -33,7 +33,10 @@ module.exports = {
 
   devServer: {
     contentBase: path.resolve(__dirname, 'dist'),
-    https: true
+    https: true,
+    host: '0.0.0.0',//your ip address
+    port: 8080,
+    disableHostCheck: true,
   },
 
   plugins: [

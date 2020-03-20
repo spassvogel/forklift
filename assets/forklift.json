@@ -1,0 +1,70 @@
+{
+	"textures": [
+		{
+			"image": "forklift.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 875,
+				"h": 463
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "body.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 737,
+						"h": 461
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 737,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 737,
+						"h": 461
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "rear-wheel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 131
+					},
+					"frame": {
+						"x": 740,
+						"y": 1,
+						"w": 134,
+						"h": 131
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d999fdf62d863c961ce498ef549f3e79:82218475d7c3c0e719be63b7c178f460:957970f7a22ec78c00888dbdb76838a6$"
+	}
+}

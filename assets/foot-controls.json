@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "foot-controls.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 254,
+				"h": 342
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "brake.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 223
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 223
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 135,
+						"h": 223
+					}
+				},
+				{
+					"filename": "accelerator.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 340
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 340
+					},
+					"frame": {
+						"x": 138,
+						"y": 1,
+						"w": 115,
+						"h": 340
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:62facc77d31d10cf6df32691574356fc:8224940463cb32b956c27bd6197ea807:8e90418806e1de2520534503f0811cbd$"
+	}
+}
