@@ -13,10 +13,10 @@ const gameConfig: Phaser.Types.Core.GameConfig = {
   },
   scene: [GameScene],
   physics: {
-    default: 'arcade',
-    arcade: {
-      debug: true,
-    },
+    default: 'matter',
+    matter: {
+      debug: true
+    }
   },
   
   parent: 'game',

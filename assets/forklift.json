@@ -4,30 +4,105 @@
 			"image": "forklift.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 875,
-				"h": 463
+				"w": 847,
+				"h": 898
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "body.png",
+					"filename": "hull.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 737,
-						"h": 461
+						"w": 709,
+						"h": 627
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 737,
-						"h": 461
+						"w": 709,
+						"h": 627
 					},
 					"frame": {
 						"x": 1,
 						"y": 1,
-						"w": 737,
-						"h": 461
+						"w": 709,
+						"h": 627
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "mast.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 591
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 591
+					},
+					"frame": {
+						"x": 712,
+						"y": 1,
+						"w": 134,
+						"h": 591
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "carriage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 304,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 304,
+						"h": 267
+					},
+					"frame": {
+						"x": 1,
+						"y": 630,
+						"w": 304,
+						"h": 267
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "front-wheel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 242,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 242,
+						"h": 241
+					},
+					"frame": {
+						"x": 307,
+						"y": 630,
+						"w": 242,
+						"h": 241
 					},
 					"anchor": {
 						"x": 0.5,
@@ -39,20 +114,20 @@
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 134,
-						"h": 131
+						"w": 193,
+						"h": 191
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 134,
-						"h": 131
+						"w": 193,
+						"h": 191
 					},
 					"frame": {
-						"x": 740,
-						"y": 1,
-						"w": 134,
-						"h": 131
+						"x": 551,
+						"y": 630,
+						"w": 193,
+						"h": 191
 					},
 					"anchor": {
 						"x": 0.5,
@@ -65,6 +140,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:d999fdf62d863c961ce498ef549f3e79:82218475d7c3c0e719be63b7c178f460:957970f7a22ec78c00888dbdb76838a6$"
+		"smartupdate": "$TexturePacker:SmartUpdate:46e505c5c0274e9c94c0048f0204f0f7:bcefa06ecc82b580bbf8b70dac13b3e6:957970f7a22ec78c00888dbdb76838a6$"
 	}
 }
